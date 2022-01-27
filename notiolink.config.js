@@ -6,7 +6,7 @@ module.exports = {
   seoDescription:
     'Self-hostable branded link shortener built with Next.js & Notion API',
   /** Twitter account for SEO */
-  twitter: '@th_clarence',
+  twitter: '@berodimas',
 
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
   deployUrl: 'https://notiolink.thcl.dev',
