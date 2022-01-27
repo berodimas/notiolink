@@ -9,5 +9,5 @@ module.exports = {
   twitter: '@berodimas',
 
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployUrl: 'https://notiolink.thcl.dev',
+  deployUrl: 'https://notiolink-bero.thcl.dev',
 };
